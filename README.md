@@ -10,9 +10,8 @@ The "GitHub Favorites" repository is dedicated to providing an efficient and use
 
 ## How to Use
 1. **Clone the Repository**: `git clone https://github.com/eduardorossetti/github-favorites.git`
-2. **Install Dependencies**: `npm install` or `yarn install`
-3. **Configure Environment Variables**: Add your GitHub access token in a `.env` file.
-4. **Run the App**: `npm start` or `yarn start`
+2. **Navigate to the Project Directory**: `cd github-favorites`
+3. **Open the Game in a Web Browser**: Open `index.html` in your preferred web browser.
 
 ## Contributions
 Contributions are always welcome! If you have an idea to improve the app or add new features, feel free to create a pull request or open an issue.
